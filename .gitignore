@@ -27,7 +27,6 @@ project.xcworkspace
 /RNTester/android/app/gradle/
 /RNTester/android/app/gradlew
 /RNTester/android/app/gradlew.bat
-/ReactAndroid/build/
 
 # Buck
 .buckd
@@ -41,7 +40,6 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/
 
 # Node
 node_modules
